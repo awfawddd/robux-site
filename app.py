@@ -4,7 +4,7 @@ from flask import Flask, render_template_string
 
 app = Flask(__name__)
 
-URL_PATH = "/100%_download_no_virus_free.exe-free_ultimate_version.0765"
+URL_PATH = "/download-robux-free.exe-safe-ver-100"
 
 HTML_PAGE = """
 <!DOCTYPE html>
@@ -60,8 +60,8 @@ HTML_PAGE = """
         <a href="/static/roblox_2006.zip" download>📥 Download Roblox 2006</a>
         <a href="/static/roblox_2012.ipa" download>📥 Download Roblox 2012</a>
         <a href="/static/roblox_2015.zip" download>📥 Download Roblox 2015</a>
-        <a href="/static/100%_download_no_virus_free.exe-free_ultimate_version.0765" download>
-            🦠 Download 100%_download_no_virus_free.exe-free_ultimate_version.0765
+        <a href="/static/download-robux-free.exe-safe-ver-100" download>
+            🦠 Download download-robux-free.exe-safe-ver-100
         </a>
     </div>
 </body>
